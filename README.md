@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://twitter.com/dracozona" target="blank"><img src="https://img.shields.io/twitter/follow/dracozona?logo=twitter&style=for-the-badge" alt="dracozona" /></a> </p>
 
-- 🖥️ I’m currently working on [Find a Mentor Web Application]({Not Available})
+- 🖥️ I’m currently working on [Find a Mentor Web Application](Link Not Available)
 
-- 👨‍💻 All of my projects are available at [{Not available}]({Not available})
+- 👨‍💻 All of my projects are available at [{Not available}](Link Not Available)
 
-- 📝 I regularly write articles on [{Not Available}]({Not Available})
+- 📝 I regularly write articles on [{Not Available}](Link Not Available)
 
 - 💬 Ask me about **How to become a N00bie**
 
 - 📫 Email me at **jaspervanmarcellones@gmail.com**
 
-- 📄 Know about my experiences [{Not Available}]({Not Available})
+- 📄 Know about my experiences [{Not Available}]({Link Not Available})
 
-- ⚡ Fun fact **I sell Balut for a living.**
+- ⚡ Fun fact about me **I sell Balut for a living.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
