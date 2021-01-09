@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jasper Van Marcellones</h1>
-<h3 align="center">N00bie in the fields of Information Security, Cybersecurity, Penetration Testing and Web Development.</h3>
+<h3 align="center">N00bie in the fields of Information Security, Cybersecurity, Penetration Testing, and Web Development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dracozona" alt="dracozona" /></a> </p>
 
