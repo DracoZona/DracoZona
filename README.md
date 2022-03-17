@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dracozona" target="blank"><img src="https://img.shields.io/twitter/follow/dracozona?logo=twitter&style=for-the-badge" alt="dracozona" /></a> </p>
 
-- 🖥️ I’m currently working on [Mentor Finder - Web Application](Link Not Available)
+- 🖥️ I’m currently working on my career.
 
 - 👨‍💻 All of my projects are available at [{Not available}](Link Not Available)
 
@@ -13,9 +13,7 @@
 
 - 💬 Ask me about **How to become a N00bie**
 
-- 📫 Email me at **jaspervanmarcellones@gmail.com**
-
-- 📄 Know about my experiences [{Not Available}]({Link Not Available})
+- 📫 Email me at **DracoZona@protonmail.com**
 
 - ⚡ Fun fact about me **I sell Balut for a living.**
 
