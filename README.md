@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working in the field of cybersecurity. I consider myself to have an <br>intermediate level of knowledge and experience in this field, with a particular focus on <br>penetration testing. I am also actively studying for the eJPT (eLearnSecurity <br>Junior Penetration Tester) certification to further improve my skills and advance my <br>career in this field. I am passionate about staying up to date with the latest techniques <br>and tools used in penetration testing and constantly strive to learn more about how to <br>effectively identify and address security vulnerabilities.
+I am currently working in the field of cybersecurity.
 
 
 ## 🌐 Socials:
